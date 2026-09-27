@@ -10,9 +10,9 @@ Auf diesem GitHub stelle ich meine Praxisprojekte aus meiner Weiterbildung zum D
 | [Praxisprojekt_01_Immobilienpreisrechner](https://github.com/Pydatrick/Praxisprojekt_01_Immobilienpreisrechner) | Grundlagen in Python (allererstes Python-Projekt) | Python -  Tkinter - Reportlab - Pyinstaller |
 | [Praxisprojekt_02_UFO_Sichtungen](https://github.com/Pydatrick/Praxisprojekt_02_UFO_Sichtungen) | Datenbereinigung, explorative Datenanylse und Datenvisualisierung | Python - Pandas - Seaborn - Folium |
 | [Praxisprojekt_03_Postgres_Datenbank](https://github.com/Pydatrick/Praxisprojekt_03_Postgres_Datenbank) | Normalisieren von Daten mit SQL und Erstellung einer Datenbank mit Daten, Rollen und Ansichten | Python  - Docker - SQL - psycog2 - SQLAlchemy - Pandas |
-| [Praxisprojekt_04A_Buchhandlung_mit_Cafe](https://github.com/Pydatrick/Praxisprojekt_04A_Buchhandlung_mit_Cafe) | Restful API für ein fiktive Buchhandlung/Cafe | Python - Docker - SQLAlchemy - FastAPI - Pydantic |
+| [Praxisprojekt_04A_Buchhandlung_mit_Cafe](https://github.com/Pydatrick/Praxisprojekt_04A_Buchhandlung_mit_Cafe) | Restful API für ein fiktiven Buchhandlung mit Cafe | Python - Docker - SQLAlchemy - FastAPI - Pydantic |
 | [Praxisprojekt_04B_Webscraping](https://github.com/Pydatrick/Praxisprojekt_04B_Webscraping) | Synchornes und asynchrones Webscraping von toscrape.com | Python - Pandas - BeautifulSoup4 |
-| [Praxisprojekt_05_Emissions_Dashboard](Praxisprojekt_05_Emissions_Dashboard) | Dashboard für "Our World in Data" Emmissionswerte | Python - Pandas - Dash - Matplotlib |
+| [Praxisprojekt_05_Emissions_Dashboard](https://github.com/Pydatrick/Praxisprojekt_05_Emissions_Dashboard) | Dashboard für "Our World in Data" Emmissionswerte | Python - Pandas - Dash - Matplotlib |
 | Praxisprojekt_06_IHK_Prüfung | IHK Prüfung (Projektdokumentation, Knime Workflow, Power BI Dashboard, Präsentation) | KNIME - PowerPoint - PowerBI |
 | Praxisprojekt_07_Krankenhaus-Qualitätsberichte | Analyse der Krankenhaus-Qualitätsberichte und Erstellung eines Dashboards mit inkteraktiver Karte   | Python - Dash - GeoPandas - Leaflet |
 
