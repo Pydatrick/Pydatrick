@@ -13,7 +13,7 @@ Auf diesem GitHub stelle ich meine Praxisprojekte aus meiner Weiterbildung zum D
 | [Praxisprojekt_04A_Buchhandlung_mit_Cafe](https://github.com/Pydatrick/Praxisprojekt_04A_Buchhandlung_mit_Cafe) | Restful API für ein fiktiven Buchhandlung mit Cafe | Python - Docker - SQLAlchemy - FastAPI - Pydantic |
 | [Praxisprojekt_04B_Webscraping](https://github.com/Pydatrick/Praxisprojekt_04B_Webscraping) | Synchornes und asynchrones Webscraping von toscrape.com | Python - Pandas - BeautifulSoup4 |
 | [Praxisprojekt_05_Emissions_Dashboard](https://github.com/Pydatrick/Praxisprojekt_05_Emissions_Dashboard) | Dashboard für "Our World in Data" Emmissionswerte | Python - Pandas - Dash - Matplotlib |
-| Praxisprojekt_06_IHK_Prüfung | IHK Prüfung (Projektdokumentation, Knime Workflow, Power BI Dashboard, Präsentation) | KNIME - PowerPoint - PowerBI |
+| [Praxisprojekt_06_IHK_Pruefung](https://github.com/Pydatrick/Praxisprojekt_06_IHK_Pruefung) | IHK Prüfung (Projektdokumentation, Knime Workflow, Power BI Dashboard, Präsentation) | KNIME - PowerPoint - PowerBI |
 | Praxisprojekt_07_Krankenhaus-Qualitätsberichte | Analyse der Krankenhaus-Qualitätsberichte und Erstellung eines Dashboards mit inkteraktiver Karte   | Python - Dash - GeoPandas - Leaflet |
 
 
